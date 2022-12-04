@@ -674,7 +674,7 @@ function ENT:BeginLaugh()
     if self.IsDriving then return end
 
     local rnd = zetamath.random(50 + self.LaughSoundCount)
-    local snd = 'zetaplayer/vo/laugh'..rnd..'.wav'
+    local snd = 'zetaplayer/vo/laugh/laugh'..rnd..'.wav'
     if self.LAUGHVOICEPACKEXISTS then
         snd = "zetaplayer/custom_vo/"..self.VoicePack.."/laugh/laugh"..zetamath.random(self.LaughSoundCount)..".wav"
     elseif rnd > 50 or self.UseCustomLaugh or GetConVar("zetaplayer_customlaughlinesonly"):GetBool() then
