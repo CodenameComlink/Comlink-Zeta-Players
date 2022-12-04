@@ -1,10 +1,10 @@
-# Zeta Players
+# Comlink's Zeta Players
 
-What are the Zeta Players? Zeta Players are nextbots designed to play sandbox. This means I have provided the weapons and tools to allow them to do that so they can do whatever they want. They will teach you on how it FEELS to play sandbox.
+As you probably know, StarFrost has stopped development on their Zeta mod. I intend to pick up where they left off and improve the Zeta experience. Improvements I would like to make include text chat lines that interact with the player, and the ability to type messages tied to a song like lyrics.
 
-![alt text](https://cdn.discordapp.com/attachments/696733081763315803/999833848223383612/20220303231739_1.jpg)
+![alt text](https://media.discordapp.net/attachments/873333019996459041/950538148767756328/unknown.png?width=604&height=462)
 
-After many months in development, it is finally time the Zetas had their own Github. I am burnt out on working on the Zetas so if you want to make your own changes/fixes in seperate forks you are very much free to do so. I do ask if you fix something shoot a pull request here so the workshop addon can have that fix
+I will also make major additions to the default panel information and rework some of the existing content. Expect WAY more text chat lines and a more comfortable listening experience.
 
 
 See the original addon page: https://steamcommunity.com/sharedfiles/filedetails/?id=2773405248
